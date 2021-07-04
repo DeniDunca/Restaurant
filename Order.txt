@@ -1,0 +1,11 @@
+_________BILL_________
+
+ DATA: 2021-07-02T15:37:59.389144700
+
+ Order Id: 0
+
+ The client: 2
+
+ has ordered: Chilled Corn Soup with Herbed Chicken | Stuffed Cornish Hens with Port Sauce | 
+
+ Price: 158
